@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 40bcdffbada364f4a963abfc87f06a04
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arial Nova
+  fontNames:
+  - Arial Nova
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 366bd965d5d783942b923db63886e311, type: 3}
+  - {fileID: 12800000, guid: 0700d9474b2741d4fbd2c540d5670f81, type: 3}
+  - {fileID: 12800000, guid: 2fb69ffd40ea50e49b9d87379c73e32a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
